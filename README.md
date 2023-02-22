@@ -1,2 +1,1 @@
-# tutorial
-learning Guthub
+# goit-markup-hw-01
